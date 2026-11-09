@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+langchain-text-splitters
+fonttools
+Sentence-transformers
+faiss-cpu
+chromadb
+scikit-learn
