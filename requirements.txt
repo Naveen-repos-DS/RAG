@@ -9,3 +9,4 @@ Sentence-transformers
 faiss-cpu
 chromadb
 scikit-learn
+python
